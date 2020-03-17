@@ -1,0 +1,200 @@
+[INFO ] 2019-01-05 11:44:17 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器启动，端口9999...
+[INFO ] 2019-01-05 11:44:17 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器正在等待客户端连接...
+[INFO ] 2019-01-05 11:44:24 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+开始逐行读取文件内容
+[INFO ] 2019-01-05 11:44:24 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+解析文件成功，采集到的对象有: 400
+[INFO ] 2019-01-05 11:44:24 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+采集到数据个数: 400
+[INFO ] 2019-01-05 11:44:24 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端连接到服务器成功...
+[INFO ] 2019-01-05 11:44:24 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端连接成功!
+[INFO ] 2019-01-05 11:44:26 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端发送数据成功!
+[INFO ] 2019-01-05 11:44:26 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端发送集合已完成!
+[INFO ] 2019-01-05 11:44:26 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器接收数据完成...
+[INFO ] 2019-01-05 11:44:26 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+从客户端接收数据个数: 400
+[INFO ] 2019-01-05 11:44:26 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+准备往数据库中插入数据...
+[INFO ] 2019-01-05 11:44:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+建立数据库连接成功,conn: oracle.jdbc.driver.T4CConnection@14899482
+[INFO ] 2019-01-05 11:44:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+修改事务管理为手动...
+[INFO ] 2019-01-05 11:44:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+开始插入数据...
+[INFO ] 2019-01-05 11:44:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+coll.size: 400
+[INFO ] 2019-01-05 11:44:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+目前有 200 条数据插入成功
+[INFO ] 2019-01-05 11:44:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+目前有 400 条数据插入成功
+[INFO ] 2019-01-05 11:44:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+插入数据完成，一共插入 400条数据
+[INFO ] 2019-01-05 11:44:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+提交事务成功，数据全部成功写入!
+[INFO ] 2019-01-06 10:11:21 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器启动，端口9999...
+[INFO ] 2019-01-06 10:11:21 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器正在等待客户端连接...
+[INFO ] 2019-01-06 10:11:26 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+开始逐行读取文件内容
+[INFO ] 2019-01-06 10:11:26 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+解析文件成功，采集到的对象有: 400
+[INFO ] 2019-01-06 10:11:26 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+采集到数据个数: 400
+[INFO ] 2019-01-06 10:11:26 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端连接到服务器成功...
+[INFO ] 2019-01-06 10:11:26 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端连接成功!
+[INFO ] 2019-01-06 10:11:28 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端发送数据成功!
+[INFO ] 2019-01-06 10:11:28 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端发送集合已完成!
+[INFO ] 2019-01-06 10:11:28 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器接收数据完成...
+[INFO ] 2019-01-06 10:11:28 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+从客户端接收数据个数: 400
+[INFO ] 2019-01-06 10:11:28 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+准备往数据库中插入数据...
+[INFO ] 2019-01-06 10:11:28 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+建立数据库连接成功,conn: oracle.jdbc.driver.T4CConnection@5a42bbf4
+[INFO ] 2019-01-06 10:11:28 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+修改事务管理为手动...
+[INFO ] 2019-01-06 10:11:28 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+开始插入数据...
+[INFO ] 2019-01-06 10:11:28 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+coll.size: 400
+[INFO ] 2019-01-06 10:11:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+目前有 200 条数据插入成功
+[INFO ] 2019-01-06 10:11:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+目前有 400 条数据插入成功
+[INFO ] 2019-01-06 10:11:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+插入数据完成，一共插入 400条数据
+[INFO ] 2019-01-06 10:11:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+提交事务成功，数据全部成功写入!
+[INFO ] 2019-01-06 10:12:22 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器启动，端口9999...
+[INFO ] 2019-01-06 10:12:22 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器正在等待客户端连接...
+[INFO ] 2019-01-06 10:12:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+开始逐行读取文件内容
+[INFO ] 2019-01-06 10:12:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+解析文件成功，采集到的对象有: 400
+[INFO ] 2019-01-06 10:12:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+采集到数据个数: 400
+[INFO ] 2019-01-06 10:12:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端连接成功!
+[INFO ] 2019-01-06 10:12:27 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端连接到服务器成功...
+[INFO ] 2019-01-06 10:12:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端发送数据成功!
+[INFO ] 2019-01-06 10:12:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端发送集合已完成!
+[INFO ] 2019-01-06 10:12:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器接收数据完成...
+[INFO ] 2019-01-06 10:12:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+从客户端接收数据个数: 400
+[INFO ] 2019-01-06 10:12:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+准备往数据库中插入数据...
+[INFO ] 2019-01-06 10:12:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+建立数据库连接成功,conn: oracle.jdbc.driver.T4CConnection@5a42bbf4
+[INFO ] 2019-01-06 10:12:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+修改事务管理为手动...
+[INFO ] 2019-01-06 10:12:30 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+开始插入数据...
+[INFO ] 2019-01-06 10:12:30 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+coll.size: 400
+[INFO ] 2019-01-06 10:12:30 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+目前有 200 条数据插入成功
+[INFO ] 2019-01-06 10:12:30 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+目前有 400 条数据插入成功
+[INFO ] 2019-01-06 10:12:30 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+插入数据完成，一共插入 400条数据
+[INFO ] 2019-01-06 10:12:30 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+提交事务成功，数据全部成功写入!
+[INFO ] 2019-01-06 10:26:31 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器启动，端口9999...
+[INFO ] 2019-01-06 10:26:31 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器正在等待客户端连接...
+[INFO ] 2019-01-06 10:26:36 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+开始逐行读取文件内容
+[INFO ] 2019-01-06 10:26:37 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+解析文件成功，采集到的对象有: 400
+[INFO ] 2019-01-06 10:26:37 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+采集到数据个数: 400
+[INFO ] 2019-01-06 10:26:37 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端连接到服务器成功...
+[INFO ] 2019-01-06 10:26:37 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端连接成功!
+[INFO ] 2019-01-06 10:26:38 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端发送数据成功!
+[INFO ] 2019-01-06 10:26:38 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端发送集合已完成!
+[INFO ] 2019-01-06 10:26:38 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器接收数据完成...
+[INFO ] 2019-01-06 10:26:38 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+从客户端接收数据个数: 400
+[INFO ] 2019-01-06 10:26:38 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+准备往数据库中插入数据...
+[INFO ] 2019-01-06 10:26:39 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+建立数据库连接成功,conn: oracle.jdbc.driver.T4CConnection@5a42bbf4
+[INFO ] 2019-01-06 10:26:39 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+修改事务管理为手动...
+[INFO ] 2019-01-06 10:26:39 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+开始插入数据...
+[INFO ] 2019-01-06 10:26:39 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+coll.size: 400
+[INFO ] 2019-01-06 10:26:39 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+目前有 200 条数据插入成功
+[INFO ] 2019-01-06 10:26:39 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+目前有 400 条数据插入成功
+[INFO ] 2019-01-06 10:26:39 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+插入数据完成，一共插入 400条数据
+[INFO ] 2019-01-06 10:26:39 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+提交事务成功，数据全部成功写入!
+[INFO ] 2019-01-06 10:32:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器启动，端口9999...
+[INFO ] 2019-01-06 10:32:29 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器正在等待客户端连接...
+[INFO ] 2019-01-06 10:32:34 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+开始逐行读取文件内容
+[INFO ] 2019-01-06 10:32:35 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+解析文件成功，采集到的对象有: 322
+[INFO ] 2019-01-06 10:32:35 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+采集到数据个数: 322
+[INFO ] 2019-01-06 10:32:35 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端连接成功!
+[INFO ] 2019-01-06 10:32:35 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端连接到服务器成功...
+[INFO ] 2019-01-06 10:32:35 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端发送数据成功!
+[INFO ] 2019-01-06 10:32:35 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+服务器接收数据完成...
+[INFO ] 2019-01-06 10:32:35 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+客户端发送集合已完成!
+[INFO ] 2019-01-06 10:32:35 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+从客户端接收数据个数: 322
+[INFO ] 2019-01-06 10:32:35 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+准备往数据库中插入数据...
+[INFO ] 2019-01-06 10:32:36 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+建立数据库连接成功,conn: oracle.jdbc.driver.T4CConnection@5a42bbf4
+[INFO ] 2019-01-06 10:32:36 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+修改事务管理为手动...
+[INFO ] 2019-01-06 10:32:36 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+开始插入数据...
+[INFO ] 2019-01-06 10:32:36 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+coll.size: 322
+[INFO ] 2019-01-06 10:32:36 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+目前有 200 条数据插入成功
+[INFO ] 2019-01-06 10:32:36 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+目前有 322 条数据插入成功
+[INFO ] 2019-01-06 10:32:36 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+插入数据完成，一共插入 322条数据
+[INFO ] 2019-01-06 10:32:36 method:com.briup.environment.util.LogImpl.info(LogImpl.java:26)
+提交事务成功，数据全部成功写入!

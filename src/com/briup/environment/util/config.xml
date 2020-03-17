@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<woss>
+	
+	<!-- 网络模块(服务器) -->
+	<server class="com.briup.environment.server.ServerImpl">
+		<!-- 端口号 -->
+		<port>9999</port>
+	</server>
+	
+	<!-- 网络模块(客户端) -->
+	<client class="com.briup.environment.client.ClientImpl">
+		<!-- 服务器IP -->
+		<serverIp>127.0.0.1</serverIp>
+		<!-- 端口号 -->
+		<serverPort>9999</serverPort>
+	</client>
+	
+	<!-- 入库模块 -->
+	<dbstore class="com.briup.environment.server.DBStoreImpl">
+		<!-- 备份文件名称 -->
+		<backUpPath>src/backUp/dbBackUp</backUpPath>
+	</dbstore>
+	
+	<!-- 采集模块 -->
+	<gather class="com.briup.environment.client.GatherImpl">
+		<!-- 原始数据文件路径 -->
+		<filePath>src/a.txt</filePath>
+	</gather>
+	
+	<!-- 日志模块 -->
+	<logger class="com.briup.environment.util.LogImpl">
+	</logger>
+	
+	<!-- 备份模块 -->
+	<backup class="com.briup.environment.util.BackupImpl">
+	</backup>
+	
+</woss>
